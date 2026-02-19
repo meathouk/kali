@@ -6,7 +6,7 @@
 
 ## Jokers
 
-- * >> Herhangi bir karakterle eslesir.
+- "*" >> Herhangi bir karakterle eslesir.
 
 - ? >> Herhangi bir tek karakterle eslesir.
  
