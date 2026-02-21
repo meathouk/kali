@@ -16,5 +16,5 @@
 
 - [[:sinif:]] >> Belirtilen sinifa ait herhangi bir karakterle eslestir.
 
-talha altinok
+
  
